@@ -99,7 +99,7 @@ section {
 .notmain {
     background-color: var(--secondery-color);
     box-shadow: 0px 0px 12px var(--main-color);
-    color: red;
+    color: var(--main-color);
 }
 
 .buttons button {
